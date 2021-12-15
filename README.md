@@ -10,6 +10,8 @@ The documents of an Ecosystem Governance Framework (EGF) are comprised of a Prim
 Document, one or more Controlled Documents (separate supporting documents focusing on
 dedicated topics for the EGF) and the Credential Governance Frameworks.
 
+To open an issue or comment click [here](https://github.com/trustoverip/egf-vlei-review/issues/new/choose)
+
 **Primary Document**
 
 _verifiable LEI (vLEI) Ecosystem Governance Framework Primary Document_
