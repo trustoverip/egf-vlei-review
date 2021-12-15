@@ -2,6 +2,8 @@ name: "vLEI Issuer Qualification Program Manual"
 description: Feedback
 title: "A concise description"
 labels: ["program-manual"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

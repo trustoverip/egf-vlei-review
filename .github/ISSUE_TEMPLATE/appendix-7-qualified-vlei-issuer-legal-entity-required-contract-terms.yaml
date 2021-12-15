@@ -2,6 +2,8 @@ name: "Qualified vLEI Issuer Legal Entity Required Contract Terms"
 description: Feedback
 title: "A concise description"
 labels: ["legal-entity-required-contract-terms"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

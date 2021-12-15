@@ -2,6 +2,8 @@ name:  "vLEI Issuer Contact Details"
 description: Feedback
 title: "A concise description"
 labels: ["contact-details"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

@@ -2,6 +2,8 @@ name: "KERI Infrastructure"
 description: Feedback
 title: "A concise description"
 labels: ["keri-infrastructure", "technical-requirements"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

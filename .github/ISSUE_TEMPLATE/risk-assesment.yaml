@@ -2,6 +2,8 @@ name: Risk Assessment
 description: Feedback
 title: "A concise description"
 labels: ["risk-assessment"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

@@ -2,6 +2,8 @@ name: vLEI Services Catalog
 description: Feedback
 title: "A concise description"
 labels: ["vlei-services-catalog"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

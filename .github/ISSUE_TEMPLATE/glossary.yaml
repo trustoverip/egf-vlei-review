@@ -2,6 +2,8 @@ name: Glossary
 description: Feedback
 title: "A concise description"
 labels: ["glossary"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

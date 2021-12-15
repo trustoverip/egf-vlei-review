@@ -2,6 +2,8 @@ name: Primary Document
 description: Feedback
 title: "A concise description"
 labels: ["primary"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

@@ -2,6 +2,8 @@ name: "Information Trust Policies"
 description: Feedback
 title: "A concise description"
 labels: ["information-trust-policies"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

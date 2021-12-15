@@ -2,6 +2,8 @@ name: Trust Assursance Framework
 description: Feedback
 title: "A concise description"
 labels: ["trust-assurance-framework"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

@@ -2,6 +2,8 @@ name: "Qualified vLEI Issuer TrustMark Terms of Use"
 description: Feedback
 title: "A concise description"
 labels: ["trust-mark-terms-of-use"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:

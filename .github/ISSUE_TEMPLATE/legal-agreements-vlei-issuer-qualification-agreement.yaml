@@ -2,6 +2,8 @@ name: vLEI Issuer Qualification Agreement
 description: Feedback
 title: "A concise description"
 labels: ["vlei-issuer-qualification-agreement"]
+assignees:
+  - kmckenna-gleif
 body:
   - type: markdown
     attributes:
