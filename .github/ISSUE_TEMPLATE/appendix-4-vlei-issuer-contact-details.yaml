@@ -1,0 +1,23 @@
+name:  "vLEI Issuer Contact Details"
+description: Feedback
+title: "A concise description"
+labels: ["contact-details"]
+body:
+  - type: markdown
+    attributes:
+      value: | 
+        2021-12-15_Appendix-4-vLEI-Issuer-Contact-Details-ToIP-Review_v1.0_draft.pdf
+  - type: input
+    id: table-section
+    attributes:
+      label: Section Name
+      description: Section title from document
+    validations:
+      required: true
+  - type: textarea
+    id: question-comment
+    attributes:
+      label: Question/Comment
+      description: Aside from a question or comment, let us know what resolution you'd like.
+    validations:
+      required: true

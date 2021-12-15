@@ -1,0 +1,34 @@
+name: vLEI Issuer Qualification Agreement
+description: Feedback
+title: "A concise description"
+labels: ["vlei-issuer-qualification-agreement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Revisions to the vLEI Issuer Qualification Agreement, including all of its appendices, shall not be subject to public review and will be reviewed and approved by GLEIF only.  For this initial ToIP membership review conducted prior to the launch of the vLEI Issuer Qualification Program, GLEIF invites members to submit feedback for these documents.
+  - type: markdown
+    attributes:
+      value: | 
+        2021-12-15_vLEI-Issuer-Qualification-Agreement-ToIP-Review_v1.0_draft.pdf
+  - type: input
+    id: section
+    attributes:
+      label: Section Name
+      description: Section title from document
+    validations:
+      required: true
+  - type: input
+    id: line-number
+    attributes:
+      label: Line number
+      description: Line number from document
+    validations:
+      required: true
+  - type: textarea
+    id: question-comment
+    attributes:
+      label: Question/Comment
+      description: Aside from a question or comment, let us know what resolution you'd like.
+    validations:
+      required: true

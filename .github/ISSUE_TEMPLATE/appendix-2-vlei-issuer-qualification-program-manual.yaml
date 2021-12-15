@@ -1,0 +1,30 @@
+name: "vLEI Issuer Qualification Program Manual"
+description: Feedback
+title: "A concise description"
+labels: ["program-manual"]
+body:
+  - type: markdown
+    attributes:
+      value: | 
+        2021-12-15_Appendix-2-vLEI-Issuer-Qualification-Program-Manual-ToIP-Review_v1.0_draft.pdf
+  - type: input
+    id: section
+    attributes:
+      label: Section Name
+      description: Section title from document
+    validations:
+      required: true
+  - type: input
+    id: row-number
+    attributes:
+      label: row-number
+      description: Row number
+    validations:
+      required: true
+  - type: textarea
+    id: question-comment
+    attributes:
+      label: Question/Comment
+      description: Aside from a question or comment, let us know what resolution you'd like.
+    validations:
+      required: true

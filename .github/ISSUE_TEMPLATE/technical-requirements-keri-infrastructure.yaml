@@ -1,0 +1,30 @@
+name: "KERI Infrastructure"
+description: Feedback
+title: "A concise description"
+labels: ["keri-infrastructure", "technical-requirements"]
+body:
+  - type: markdown
+    attributes:
+      value: | 
+        2021-12-15_verifiable-LEI-(vLEI)-Ecosystem-Governance-Framework-Technical-Requirements-Part1-KERI-Infrastructure-ToIP-Review_v1.0_draft.pdf
+  - type: input
+    id: section
+    attributes:
+      label: Section Name
+      description: Section title from document
+    validations:
+      required: true
+  - type: input
+    id: row-number
+    attributes:
+      label: Row number
+      description: Row number from document
+    validations:
+      required: true
+  - type: textarea
+    id: question-comment
+    attributes:
+      label: Question/Comment
+      description: Aside from a question or comment, let us know what resolution you'd like.
+    validations:
+      required: true
