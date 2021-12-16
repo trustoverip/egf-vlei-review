@@ -4,6 +4,7 @@ title: "A concise description"
 labels: ["glossary"]
 assignees:
   - kmckenna-gleif
+  - m00sey  
 body:
   - type: markdown
     attributes:
