@@ -3,8 +3,7 @@ description: Feedback
 title: "A concise description"
 labels: ["glossary"]
 assignees:
-  - kmckenna-gleif
-  - m00sey  
+  - kmckenna-gleif  
 body:
   - type: markdown
     attributes:
