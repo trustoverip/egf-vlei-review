@@ -12,6 +12,8 @@ dedicated topics for the EGF) and the Credential Governance Frameworks.
 
 To open an issue or comment click [here](https://github.com/trustoverip/egf-vlei-review/issues/new/choose)
 
+A recording of the vLEI EGF [presentation](https://github.com/trustoverip/egf-vlei-review/blob/main/2021-12-08_vLEI-EGF-ToIP_v1.0_final.pdf) given at the Trust Over IP all memeber meeting can be seen [here](https://zoom.us/rec/share/nPLO-xXO24iYQ_zZsMSDhDSQx2aviRh_D5bNfCyVTlSzYyS-uoGXfgHDSJPeVzMq.QwWnkRPq1-QtA-B7)
+
 **Primary Document**
 
 _verifiable LEI (vLEI) Ecosystem Governance Framework Primary Document_
