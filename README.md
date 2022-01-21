@@ -1,3 +1,6 @@
+The review window has passed and this repo is now archived.
+Thanks to everyone who reviewed.
+
 **Structure and background purpose of documents of the
 verifiable LEI (vLEI) Ecosystem Governance Framework
 For Trust over IP Member Review**
